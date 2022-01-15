@@ -1,7 +1,7 @@
 # Hi there, I'm [Alex](https://github.com/FrostFire25)
 
-### Below are my listed github statistics and wakatime statistics. I am a CS Student from New Hampshire. I enjoy spending my time working
-### on Minecraft Networks and doing miscullanious programming.
+### Below are my listed github statistics and wakatime statistics. I am a CS Student from New Hampshire.
+### I enjoy spending my time working on Minecraft Networks and doing miscellaneous programming.
 
 ### My main languages consist of Java and C#, though I am wanting to pickup a few more soon!
 
