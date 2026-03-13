@@ -12,17 +12,8 @@ I like building **resilient systems**, **clean architectures**, and **intuitive 
 
 ## Connect
 
-- Email: **luis1944alex@gmail.com**
 - LinkedIn: **www.linkedin.com/in/alex-elguezabal**
 - GitHub: **github.com/Frostfire25**
-
----
-
-**Also enjoy:**  
-- Backend services & distributed systems  
-- Frontend frameworks & UX polish  
-- Automation tooling, CI/CD, and reliability engineering  
-- Clean architecture, maintainable code, and pragmatic testing
 
 ---
 
