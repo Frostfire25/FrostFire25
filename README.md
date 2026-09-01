@@ -53,7 +53,7 @@ they do not depend on an external image service.
 ---
 
 <p align="center">
-  <img src="./assets/alex-studio.png" alt="Illustration accompanying Alex's developer profile" width="720">
+  <img src="./assets/alex-profile.jpg" alt="Alex Elguezabal" width="720">
 </p>
 <p align="center">
   <sub>Keep learning, building, and sharing with the <a href="https://aka.ms/student-demo-series-website">Student Demo Series</a>.</sub>
