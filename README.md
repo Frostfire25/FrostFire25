@@ -9,7 +9,7 @@ build on.
 
 Curious about what students are building with technology? Explore practical demos,
 learn from other creators, and find inspiration in the
-**[Student Demo Series](https://aka.ms/student-demo-series-website)**.
+**[Build Your Personal Brand with Copilot Website](https://aka.ms/student-learning-series-website)**.
 
 ## What I care about
 
