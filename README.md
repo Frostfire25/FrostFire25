@@ -1,11 +1,9 @@
 # Hi, I'm Alex Elguezabal
 
-I'm a Software Engineer at **Microsoft**, working with Microsoft 365 Enterprise Cloud
-Trusted Platforms and based in **Seattle/Redmond, WA**.
-
-I enjoy building **resilient systems**, **clean architectures**, and **intuitive user
-experiences**, with an emphasis on scalability, performance, and good developer
-ergonomics.
+I'm a Software Engineer at **Microsoft** working with Microsoft 365 Enterprise Cloud
+Trusted Platforms in **Seattle/Redmond, WA**. I enjoy creating resilient systems,
+clean architectures, and intuitive user experiences that scale well and are easy to
+build on.
 
 ## Student Demo Series
 
@@ -13,11 +11,11 @@ Curious about what students are building with technology? Explore practical demo
 learn from other creators, and find inspiration in the
 **[Student Demo Series](https://aka.ms/student-demo-series-website)**.
 
-## What I'm working toward
+## What I care about
 
-- Building systems that are **observable**, **fault-tolerant**, and easy to operate
-- Collaborating through **good design docs**, **clear ownership**, and **iterative delivery**
-- Learning more about DevOps/SRE, backend systems, emerging tech, AI/ML, and personal finance
+- **Observable, fault-tolerant systems** that are easy to operate
+- **Clear design docs, shared ownership, and iterative delivery**
+- Continued learning in DevOps/SRE, backend systems, emerging tech, AI/ML, and personal finance
 
 ## Experience
 
@@ -53,7 +51,7 @@ they do not depend on an external image service.
 ---
 
 <p align="center">
-  <img src="./assets/alex-profile.jpg" alt="Alex Elguezabal" width="720">
+  <img src="./assets/alex-profile.jpg" alt="Photo of Alex Elguezabal" width="720">
 </p>
 <p align="center">
   <sub>Keep learning, building, and sharing with the <a href="https://aka.ms/student-demo-series-website">Student Demo Series</a>.</sub>
