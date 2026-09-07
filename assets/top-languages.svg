@@ -16,11 +16,11 @@
   <text x="36" y="77" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Across 25 original public repositories</text>
   <rect x="36" y="103" width="652" height="16" rx="8" fill="#21262d"/>
   <g clip-path="url(#language-bar)">
-    <rect x="36.00" y="103" width="405.13" height="16" fill="#F1E05A"/>
-    <rect x="441.13" y="103" width="176.44" height="16" fill="#E34C26"/>
-    <rect x="617.57" y="103" width="61.89" height="16" fill="hsl(227 62% 58%)"/>
+    <rect x="36.00" y="103" width="405.15" height="16" fill="#F1E05A"/>
+    <rect x="441.15" y="103" width="176.43" height="16" fill="#E34C26"/>
+    <rect x="617.58" y="103" width="61.89" height="16" fill="hsl(227 62% 58%)"/>
     <rect x="679.46" y="103" width="4.00" height="16" fill="#B07219"/>
-    <rect x="683.46" y="103" width="1.28" height="16" fill="#663399"/>
+    <rect x="683.47" y="103" width="1.28" height="16" fill="#663399"/>
   </g>
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
     <circle cx="44" cy="153" r="6" fill="#F1E05A"/>
